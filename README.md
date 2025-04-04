@@ -1,2 +1,2 @@
-# Programa-o-Orientada-Objetos-I
+# Programacao-Orientada-Objetos-I
 Desafios da disciplina "Programação Orientada à Objetos I"
